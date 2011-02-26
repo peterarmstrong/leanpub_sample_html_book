@@ -1,2 +1,2 @@
-Preface.md
-Leanpub Book Format.md
+Preface.html
+Leanpub Book Format.html
